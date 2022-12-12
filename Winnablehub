@@ -1,0 +1,3 @@
+_G.Mode = "Normal" -- Aimbot / Normal
+_G.Key = "" -- if you already have a key you can put it here
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xlostpexz/tyuiop/Fps/Loading.lua"))()
